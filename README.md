@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on Data science projects **Data science projects**
 
-- 🤝 I’m looking for help with learning new updates in technology **learning new updates in technology**
+- 🤝 I’m looking for help with  **learning new updates in technology**
 
-- 👨‍💻 Ask me about **Python**
+- 👨‍💻 Ask me about **Python ,Data science and Machine learning**
 
 - 📫 How to reach me **hemac181@gmail.com**
 
