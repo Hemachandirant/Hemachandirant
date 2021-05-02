@@ -1,4 +1,4 @@
-### Hi there, I'm Hemachandiran T[website] 👋
+### Hi there, I'm Hemachandiran T 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hemac140?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://twitter.com/hemac140)
 
