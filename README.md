@@ -1,6 +1,6 @@
 ### Hi there, I'm Hemachandiran T[website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://twitter.com/hemac140)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hemac140?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://twitter.com/hemac140)
 
 ## I'm a Student currently making my carrer transition into Data science|Machine learning,Deep learning!!
 
