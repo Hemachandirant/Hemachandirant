@@ -3,7 +3,7 @@
 ## I'm a Student currently making my carrer transition into Data science|Machine learning,Deep learning!!
 
 - 👯 I’m looking to collaborate with Data science projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Produce music.
 
 ### Spotify Playing 🎧
