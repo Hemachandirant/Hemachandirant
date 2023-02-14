@@ -2,7 +2,7 @@
 
 ## I'm Full Stack Developer!
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Produce music.
 
 
