@@ -9,9 +9,12 @@
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='fill:white;'>](https://github.com/hemachandirant)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='fill:white;'>](https://www.linkedin.com/in/hemachandiran-t-081836171/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='fill:white;'>](https://www.facebook.com/hemachandiran.thirunavukkarau) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style='fill:white;'>](https://twitter.com/hemac140)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' style='fill:white;'>](https://stackoverflow.com/users/users/15806480/hemachandiran-t)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40' style='fill:white;'>](https://www.kaggle.com/hemachandirant)   
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(100%);'>](https://github.com/hemachandirant)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(100%);'>](https://www.linkedin.com/in/hemachandiran-t-081836171/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='filter: invert(100%);'>](https://www.facebook.com/hemachandiran.thirunavukkarau)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style='filter: invert(100%);'>](https://twitter.com/hemac140)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' style='filter: invert(100%);'>](https://stackoverflow.com/users/users/15806480/hemachandiran-t)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40' style='filter: invert(100%);'>](https://www.kaggle.com/hemachandirant)  
 
 
 
