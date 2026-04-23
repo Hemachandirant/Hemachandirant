@@ -1,6 +1,6 @@
 ### Hi there, I'm Hemachandiran T 👋
 
-## I'm Full Stack Developer & AI Engineer!
+## I'm AI Engineer!
 
 - 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Produce music.
